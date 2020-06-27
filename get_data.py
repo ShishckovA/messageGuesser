@@ -9,7 +9,7 @@ except:
     exit(1)
 
 
-def download_message_history(uid, filename="messages1.csv", logging=True):
+def download_message_history(uid, filename="messages.csv", logging=True):
     vk_session = vk_api.VkApi(token=token)
     vk = vk_session.get_api()
 
