@@ -1,0 +1,4 @@
+id	timestamp	text	has_fwd	has_attachments	is_out
+3	1000005	Всё круто!	1	0	0
+2	1000002	Как дела?	0	0	1
+1	1000000	Привет!	0	0	0
